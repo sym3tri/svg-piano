@@ -1,0 +1,17 @@
+.key {
+  cursor: pointer;
+}
+
+.key.white {
+  fill: #fff;
+  stroke: #000;
+}
+
+.key.black {
+  fill: #000;
+  stroke: #000;
+}
+
+.key.hover {
+  fill: #6899d3;
+}
